@@ -1,5 +1,5 @@
 # movie-fight
-A website that compares two movies and shows up, depending on each characteristic, which one is the winner.
+A website made with Vanilla JS and Bulma CSS that compares two movies and shows up, depending on a selected criteria, which one is the winner.
 
 Movie comparison using:
 - [x] the OMDB API
